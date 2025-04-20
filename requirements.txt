@@ -1,3 +1,6 @@
 tensorflow
 opencv-contrib-python
 split-folders
+
+
+the missing file is sing-lang-detection.h5
